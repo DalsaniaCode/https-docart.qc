@@ -4,5 +4,6 @@ body {
 #Logo {
   background-color: #54A8FF;
   color: #FFFFFF;
-  font-family: Arial, sans-serif;
+  font-family: Segoe UI light, sans-serif;
+  font-size: 50px;
 }
