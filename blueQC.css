@@ -3,12 +3,13 @@ body {
   margin: 0;
 }
 #banner {
-  background-color: #54A8FF;
+  background-color: #79B9EF;
   color: #FFFFFF;
   font-family: Segoe UI light, sans-serif;
   font-size: 50px;
   padding: 10px 25px;
   text-align: left;
+  margin: 0;
 }
 #issue {
   color: #808080;
