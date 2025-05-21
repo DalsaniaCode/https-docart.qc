@@ -26,5 +26,9 @@ div {
   background-color: #FFF;
 }
 .content2 {
-  background-color: #F0F0F0;
+  background-color: #E8E8E8;
+  vertical-align: bottom;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px 0px;
 }
