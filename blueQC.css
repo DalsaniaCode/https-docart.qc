@@ -17,7 +17,14 @@ body {
   text-align: center;
   vertical-align: middle;
 }
-.content {
+div {
   margin: 0;
   padding: 10px;
+}
+
+.content {
+  background-color: #FFF;
+}
+.content2 {
+  background-color: #F0F0F0;
 }
