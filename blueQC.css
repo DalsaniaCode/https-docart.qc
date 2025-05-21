@@ -2,6 +2,10 @@ body {
   background-color: #FFFFFF;
   margin: 0;
 }
+div {
+  margin: 0;
+  padding: 10px;
+}
 #banner {
   background-color: #79B9EF;
   color: #FFFFFF;
@@ -17,10 +21,6 @@ body {
   text-align: center;
   vertical-align: middle;
 }
-div {
-  margin: 0;
-  padding: 10px;
-}
 
 .content {
   background-color: #FFF;
@@ -31,4 +31,6 @@ div {
   font-family: Arial, sans-serif;
   text-align: center;
   padding: 20px 0px;
+  position: fixed;
+  width: 100%;
 }
